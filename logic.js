@@ -8,3 +8,4 @@ var connectionsRef = database.ref("/connections");
 // .info connected is a special location updatad when 
 // any clients connection boolean changes.
 var connectedRef = database.ref(".info/connected");
+
